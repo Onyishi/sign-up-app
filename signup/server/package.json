@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Sign Up Server Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onyishi/sign-up-app.git"
+  },
+  "author": "Onyishi Chetachi Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onyishi/sign-up-app/issues"
+  },
+  "homepage": "https://github.com/Onyishi/sign-up-app#readme"
+}
